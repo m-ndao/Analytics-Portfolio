@@ -1,7 +1,9 @@
 #title: Mahe Ndao
-author: Mahe Ndao
-logo: /assets/img/headshot_circle.png
+author: 
+name: Mahe Ndao
 email: "mahe16g2g@yahoo.fr"
+logo: /assets/img/headshot_circle.png
+
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
